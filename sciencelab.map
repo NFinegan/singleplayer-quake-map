@@ -11684,7 +11684,7 @@
 "classname" "trigger_onlyregistered"
 "target" "stairs"
 "targetname" ""
-"message" "The alarms have been triggered!"
+"message" ""
 // brush 0
 {
 ( 4152 2096 -36 ) ( 4152 2097 -36 ) ( 4152 2096 -35 ) clip [ 0 -1 0 19 ] [ 0 0 -1 -12 ] 0 1 1
