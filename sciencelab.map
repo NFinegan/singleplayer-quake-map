@@ -16623,15 +16623,10 @@
 }
 // entity 163
 {
-"classname" "item_cells"
-"origin" "5187 2001 -119"
-}
-// entity 164
-{
 "classname" "item_health"
 "origin" "5854 2786 -28"
 }
-// entity 165
+// entity 164
 {
 "classname" "item_health"
 "origin" "5134 2828 -28"
