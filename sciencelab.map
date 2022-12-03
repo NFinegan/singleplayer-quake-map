@@ -15680,6 +15680,8 @@
 "classname" "func_door"
 "angle" "-2"
 "target" "upperdoorsopen"
+"targetname" "upperdoors"
+"spawnflags" "32"
 // brush 0
 {
 ( 4318 1351 -90 ) ( 4318 1352 -120 ) ( 4318 1352 -90 ) 128_grey_2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
