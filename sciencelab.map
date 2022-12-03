@@ -17637,19 +17637,13 @@
 }
 // entity 204
 {
-"classname" "info_player_start"
-"origin" "4800 -208 -356"
-"angle" "165"
-}
-// entity 205
-{
 "classname" "monster_enforcer"
 "origin" "4568 -292 -356"
 "angle" "90"
 "targetname" "boilerenforcer"
 "spawnflags" "1"
 }
-// entity 206
+// entity 205
 {
 "classname" "info_player_start"
 "origin" "112 -256 -96"
