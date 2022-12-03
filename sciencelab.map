@@ -17546,7 +17546,7 @@
 // entity 197
 {
 "classname" "func_door"
-"spawnflags" "180"
+"spawnflags" "164"
 "targetname" "BarsDown"
 "angle" "90"
 // brush 0
