@@ -17649,3 +17649,8 @@
 "targetname" "boilerenforcer"
 "spawnflags" "1"
 }
+// entity 206
+{
+"classname" "info_player_start"
+"origin" "112 -256 -96"
+}
