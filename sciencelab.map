@@ -16656,3 +16656,21 @@
 "classname" "item_health"
 "origin" "5134 2828 -28"
 }
+// entity 165
+{
+"classname" "trap_shooter"
+"origin" "841 -93 -112"
+"angle" "270"
+"spawnflags" "2"
+"delay" ""
+"wait" "2"
+}
+// entity 166
+{
+"classname" "trap_shooter"
+"origin" "835 -92 -76"
+"angle" "270"
+"spawnflags" "2"
+"delay" ""
+"wait" "3"
+}
