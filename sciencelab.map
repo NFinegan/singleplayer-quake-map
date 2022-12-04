@@ -18977,3 +18977,27 @@
 "target" "zombiepath1"
 "spawnflags" "1"
 }
+// entity 218
+{
+"classname" "path_corner"
+"origin" "4008 3320 184"
+"angle" "180"
+"targetname" "Gruntpath1"
+"target" "Gruntpath2"
+}
+// entity 219
+{
+"classname" "path_corner"
+"origin" "3771.55 3319.86 184"
+"angle" "0"
+"target" "Gruntpath1"
+"targetname" "Gruntpath2"
+}
+// entity 220
+{
+"classname" "monster_army"
+"origin" "4002 3319 200"
+"angle" "180"
+"targetname" "LabGrunt"
+"spawnflags" "1"
+}
