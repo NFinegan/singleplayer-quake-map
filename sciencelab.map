@@ -19044,3 +19044,8 @@
 "targetname" "SecurityGrunt"
 "spawnflags" "1"
 }
+// entity 225
+{
+"classname" "info_player_start"
+"origin" "112 -256 -96"
+}
