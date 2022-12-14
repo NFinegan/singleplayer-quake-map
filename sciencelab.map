@@ -26819,3 +26819,10 @@
 "origin" "4750 1306 80"
 "delay" "0.75"
 }
+// entity 339
+{
+"classname" "light"
+"origin" "3627 1318 293"
+"delay" "2"
+"wait" "3"
+}
