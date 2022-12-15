@@ -26320,9 +26320,9 @@
 // entity 230
 {
 "classname" "monster_ogre_marksman"
-"origin" "3793 439 -129"
+"origin" "3872.5 530 -87.5"
 "angle" "286"
-"targetname" "boilerhallogre"
+"targetname" "boilerogre"
 "spawnflags" "1"
 }
 // entity 231
